@@ -8,3 +8,9 @@ const userSchema = new Schema({
 
 mongoose.model("users", userSchema); // <---- load into  mongoose 2 arguments
 
+
+
+
+
+
+
