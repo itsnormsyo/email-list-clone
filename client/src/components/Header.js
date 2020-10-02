@@ -51,3 +51,4 @@ function mapStateToProps({ auth }) {
 }
 
 export default connect(mapStateToProps)(Header);
+ 
